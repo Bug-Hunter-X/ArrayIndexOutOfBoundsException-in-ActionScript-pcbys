@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: attempting to access an array element outside of its valid index range.  The provided code attempts to access an element one position beyond the array's last element.  The solution shows how to correct this error by ensuring index values remain within the bounds of the array.
